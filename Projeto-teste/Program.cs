@@ -12,6 +12,7 @@ namespace Projeto_teste
         {
             Console.WriteLine("Olá mundo");
             Console.WriteLine("proxima versao");
+            Console.WriteLine("Bora testar o git");
 
             Console.ReadLine();
         }
