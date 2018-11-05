@@ -11,8 +11,10 @@ namespace Projeto_teste
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo");
-            Console.WriteLine("proxima versao");
+            
             Console.WriteLine("Bora testar o git");
+
+            Console.WriteLine("um bom dia");
 
             Console.ReadLine();
         }
